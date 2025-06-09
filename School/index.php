@@ -10,7 +10,7 @@
 <body>
     <div class="container w-50">
         <div class="card mx-auto w-75 mt-5 border border-0">
-            <div class="card-header bg-white border-0">
+            <div class="card-header bg-primary border-0">
                 <h2 class="text-center">REGISTRATION</h2>
             </div>
             <div class="card-body">
