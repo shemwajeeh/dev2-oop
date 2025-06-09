@@ -30,7 +30,7 @@ class Circle implements Shape {
     }
 }
 
-$rect = new Rectangle(10,5);
+$rectangle = new Rectangle(10,5);
 $circle = new Circle(7);
 
 echo $rect->getArea() . "\n";
